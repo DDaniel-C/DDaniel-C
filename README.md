@@ -17,7 +17,7 @@ Hi, I'm DDaniel-C, but you can call me Daniel 😊. I'm a QA Automation Engineer
 ## My projects
 -------------
 
-* **[WebdriverIO Mocha Project](https://github.com/DDaniel-C/webdriverio-mocha-project)**: A project that uses WebdriverIO and Mocha to automate end-to-end tests for a web application 🚀
+* **[WebdriverIO Mocha Project](https://github.com/DDaniel-C/WebdriverIO_Mocha)**: A project that uses WebdriverIO and Mocha to automate end-to-end tests for a web application 🚀
 
 ## My goals
 ---------
