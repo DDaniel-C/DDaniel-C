@@ -20,7 +20,7 @@ Hi, I'm DDaniel-C, but you can call me Daniel 😊. I'm a QA Automation Engineer
 -------------
 
 * **Programming languages**: Python, Javascript 📚
-* **Frameworks**: Spring, Django, React, Angular, and Vue.js 🌈
+* **Frameworks**: Playwright, WebdriverIO, Mocha, Gherkin, Pytest-BDD 🌈
 * **Operating Systems**: Windows 🖥️
 
 ## My projects
