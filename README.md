@@ -2,15 +2,6 @@
 
 [![DDaniel-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDaniel-C&show_icons=true&theme=radical)](https://github.com/DDaniel-C)
 
-## Table of Contents
------------------
-
-* [About me](#about-me)
-* [My expertise](#my-expertise)
-* [My projects](#my-projects)
-* [My goals](#my-goals)
-* [Let's connect](#lets-connect)
-
 ## About me
 --------
 
