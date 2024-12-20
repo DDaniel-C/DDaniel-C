@@ -3,7 +3,7 @@
 ## About me
 --------
 
-Hi, I'm DDaniel-C, but you can call me Daniel 😊. I'm a QA Automation Engineer who also likes to dabble in software development with a passion for building innovative solutions 💻. When I'm not coding, you can find me playing video games 🎮, watching movies 🍿, or trying out new restaurants 🍴.
+Hi, I'm DDaniel-C, but you can call me Daniel 😊. I'm a QA Automation Engineer who also likes to dabble in software development with a passion for building innovative solutions 💻. When I'm not coding, you can find me playing video games 🎮, trying to land a skateboarding trick 🛹, or trying out new restaurants 🍴.
 
 ## My expertise
 -------------
