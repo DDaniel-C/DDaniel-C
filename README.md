@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![DDaniel-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDaniel-C&show_icons=true&theme=radical)](https://github.com/DDaniel-C)
-
 ## About me
 --------
 
@@ -30,5 +28,3 @@ Hi, I'm DDaniel-C, but you can call me Daniel 😊. I'm a QA Automation Engineer
 --------------
 
 * **LinkedIn**: [linkedin.com/in/ddanielc](https://www.linkedin.com/in/ddaniel-call) 💼
-
-Thanks for visiting my GitHub profile! 👋
